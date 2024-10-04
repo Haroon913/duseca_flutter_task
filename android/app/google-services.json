@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631612577209",
+    "project_id": "duseca-task-33f66",
+    "storage_bucket": "duseca-task-33f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631612577209:android:9c1443602407ea81765268",
+        "android_client_info": {
+          "package_name": "com.example.duseca_flutter_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6cc6r82e6TCYA7csZKwSycmRTfObcijU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
